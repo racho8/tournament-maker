@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tournament-maker/static/css/main.15b6c80b.css",
+    "main.js": "/tournament-maker/static/js/main.b84ab428.js",
+    "index.html": "/tournament-maker/index.html",
+    "main.15b6c80b.css.map": "/tournament-maker/static/css/main.15b6c80b.css.map",
+    "main.b84ab428.js.map": "/tournament-maker/static/js/main.b84ab428.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15b6c80b.css",
+    "static/js/main.b84ab428.js"
+  ]
+}
