@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tournament-maker/static/css/main.feaf6bee.css",
-    "main.js": "/tournament-maker/static/js/main.ce15f392.js",
+    "main.js": "/tournament-maker/static/js/main.edaedf81.js",
     "index.html": "/tournament-maker/index.html",
     "main.feaf6bee.css.map": "/tournament-maker/static/css/main.feaf6bee.css.map",
-    "main.ce15f392.js.map": "/tournament-maker/static/js/main.ce15f392.js.map"
+    "main.edaedf81.js.map": "/tournament-maker/static/js/main.edaedf81.js.map"
   },
   "entrypoints": [
     "static/css/main.feaf6bee.css",
-    "static/js/main.ce15f392.js"
+    "static/js/main.edaedf81.js"
   ]
 }
